@@ -7,8 +7,8 @@ accounts:
     name: "Accounts PROD Name"
     email: "accounts_prod@email.com"
   onCallSupport:
-    - (333) 111-1111
-    - (333) 111-1112
+    - (333) 111-1234
+    - (333) 111-1234
   db:
     username: "{cipher}808eb6efd04ed56a8b32b94f1fdb74ba46c7612d65c120fe6e743be3013ab6228276a1549f036272284eada333725579"
     password: "{cipher}aeb78b617362a42d76731d283989771b1c0bd17cd416e80f0e8cd516bce5ed2ac366a082cbcc2cc33635eeccf99bd74c"

@@ -7,5 +7,5 @@ cards:
     name: "Cards Default Name"
     email: "cards_default@email.com"
   onCallSupport:
-    - (111) 111-1111
-    - (111) 111-1112
+    - (111) 111-2345
+    - (111) 111-2345

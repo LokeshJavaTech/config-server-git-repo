@@ -7,5 +7,5 @@ cards:
     name: "Cards PROD Name"
     email: "cards_prod@email.com"
   onCallSupport:
-    - (333) 111-1111
-    - (333) 111-1112
+    - (333) 111-2345
+    - (333) 111-2345

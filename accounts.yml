@@ -7,8 +7,8 @@ accounts:
     name: "Accounts Default Name"
     email: "accounts_default@email.com"
   onCallSupport:
-    - (111) 111-1111
-    - (111) 111-1112
+    - (111) 111-1234
+    - (111) 111-1234
   db:
     username: "{cipher}5f77f077e70e8a1b05f4935b1db78b1ce23b28bcac113b1f2007593ae030988ea6fb36462477e60b3533a00c871e91ba"
     password: "{cipher}785d2536df3cb105f6c4b862b6af49d7fad65ec53e868a07af8de2af7b3209eec70bd899906e04e8df76c4543459d18e"
