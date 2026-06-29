@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+
+loans:
+  message: "Welcome Loans DEV Team"
+  contactDetails:
+    name: "Loans DEV Team"
+    email: "loans_dev@eazybank.com"
+  onCallSupport:
+    - (333) 333 3330
+    - (333) 333 3331
+

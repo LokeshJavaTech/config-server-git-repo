@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+
+loans:
+  message: "Welcome Loans PROD Team"
+  contactDetails:
+    name: "Loans PROD Team"
+    email: "loans_prod@eazybank.com"
+  onCallSupport:
+    - (111) 111 1110
+    - (111) 111 1111
+

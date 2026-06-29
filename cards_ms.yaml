@@ -1,0 +1,13 @@
+build:
+  version: "3.0"
+
+
+cards:
+  message: "Welcome Cards DEV Team"
+  contactDetails:
+    name: "Cards DEV Team"
+    email: "cards_dev@eazybank.com"
+  onCallSupport:
+    - (333) 333 3330
+    - (333) 333 3331
+

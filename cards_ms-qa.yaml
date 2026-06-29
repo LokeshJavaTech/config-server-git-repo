@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+
+cards:
+  message: "Welcome Cards QA Team"
+  contactDetails:
+    name: "Cards QA Team"
+    email: "cards_qa@eazybank.com"
+  onCallSupport:
+    - (222) 222 2220
+    - (222) 222 2221
+

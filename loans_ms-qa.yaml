@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+
+loans:
+  message: "Welcome Loans QA Team"
+  contactDetails:
+    name: "Loans QA Team"
+    email: "loans_qa@eazybank.com"
+  onCallSupport:
+    - (222) 222 2220
+    - (222) 222 2221
+

@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+
+accounts:
+  message: "Welcome Accounts DEV Team"
+  contactDetails:
+    name: "Accounts DEV Team"
+    email: "accounts_dev@eazybank.com"
+  onCallSupport:
+    - (333) 333 3330
+    - (333) 333 3331

@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome Accounts PROD Team"
+  contactDetails:
+    name: "Accounts PROD Team"
+    email: "accounts_prod@eazybank.com"
+  onCallSupport:
+    - (111) 111 1110
+    - (111) 111 1111
