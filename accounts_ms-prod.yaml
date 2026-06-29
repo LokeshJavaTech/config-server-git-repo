@@ -8,4 +8,4 @@ accounts:
     email: "accounts_prod@eazybank.com"
   onCallSupport:
     - "{cipher}6fe247656543a4e078b95d1036bc4c711fa967d7b5fc6598d247a132a585c4b2"
-    - "6fe247656543a4e078b95d1036bc4c711fa967d7b5fc6598d247a132a585c4b2"
+    - "{cipher}beecfe919e713cf4996b7c1a449d547278da6691578e3361b619ad78f45ca71d"
